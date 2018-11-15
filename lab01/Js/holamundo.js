@@ -16,3 +16,18 @@ console.log(100 + 500);
 
 //Comparar los siguientes números 800 y 500
 console.log(800 < 500);
+
+//Imprime 3 nombres de países 
+console.log('Perú, Brasil, Bolivia');
+
+//Imprimir mensaje de error
+console.error('Este error es de prueba...no te asustes sano.')
+
+//Imprimir mensaje de advertencia
+console.warn('Cuidado...te estoy vigilando...');
+
+//Imprimir mensaje de información
+console.info('Este es un aviso de JavaScript');
+
+//Multiplicar 3 números: 10 x 25 x 105
+console.log(10*25*105);
